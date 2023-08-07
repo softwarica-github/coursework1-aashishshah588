@@ -1,0 +1,3 @@
+Port 135/tcp is open (epmap)
+Port 139/tcp is open (netbios-ssn)
+Port 445/tcp is open (microsoft-ds)
